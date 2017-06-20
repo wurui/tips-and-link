@@ -1,0 +1,6 @@
+{
+  "name": "tips-and-link",
+  "version": "0.0.1",
+  "apiDependencies": ["tip-and-link"]
+}
+
