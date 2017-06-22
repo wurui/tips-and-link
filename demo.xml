@@ -11,17 +11,20 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <tip-and-link>
-        <tips>
-            <i>
-                tough camera
-            </i>
-        </tips>
-        <links>
-            <i>
-                powerful notebook
-            </i>
-        </links>
-    </tip-and-link>
+        <tip-and-link>
+            <tips>
+                <i>
+                    此车贴订单是激活时付款
+                </i>
+                <i>
+                    请支付后方可激活
+                </i>
+            </tips>
+            <links>
+                <i>
+
+                </i>
+            </links>
+        </tip-and-link>
     </data>
 </root>
